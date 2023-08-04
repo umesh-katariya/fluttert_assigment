@@ -6,7 +6,6 @@ import 'ui/SplashScreen/splash_binding.dart';
 import 'ui/SplashScreen/splash_screen.dart';
 
 class AppPages {
-
   static final routes = [
     GetPage(
         name: '/',
